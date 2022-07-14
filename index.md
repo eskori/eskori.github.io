@@ -7,6 +7,7 @@ layout: default
 El objetivo es ir documentando mis proyectos personales y/o profesionales, un registro para recordarme lo que he hecho y demostrarlo para el resto del mundo también.
 
 ¡Muchas gracias por pasarte! Si necesitas ponerte en contacto conmigo por cualquier motivo, puedes alcanzarme de varias maneras:
-- Correo: dev.eskori@gmail.com
-- Discord: eskori#6972
+- **Correo:** dev.eskori@gmail.com
+- **Twitter:** @deveskori
+- **Discord:** eskori#6972
 
